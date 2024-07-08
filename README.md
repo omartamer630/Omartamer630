@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Omar and I'm a DevOps Engineer, from Egypt</h2>
+<h1 align="left">Hi 👋! My name is Omar and I'm a DevOps Engineer, from Egypt</h1>
 
 ###
 
