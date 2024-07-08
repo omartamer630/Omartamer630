@@ -33,7 +33,7 @@
 ###
 
 <div align="center">
-  <a href="[https://www.linkedin.com/feed/](https://www.linkedin.com/in/omar-tamer03/)" target="_blank">
+  <a href="https://www.linkedin.com/in/omar-tamer03/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="mailto:omartamerdev@gmail.com" target="_blank">
