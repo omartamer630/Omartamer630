@@ -6,7 +6,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/omar-tamer03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmeed-alaa/" height="30" width="40" /></a>
 <a href="mailto:omartamerdev@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+        <img src="https://skillicons.dev/icons?i=gmail&perline=11" />
   </a>
 </p>
 
