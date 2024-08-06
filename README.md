@@ -11,12 +11,12 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
      <img src="https://skillicons.dev/icons?i=aws,bash,py,java,linux,redhat,git,github,nginx,mysql,terraform&perline=11" />
-</div>
-
+  </a>
+</p>
 ###
 
 <br clear="both">
