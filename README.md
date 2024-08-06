@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Omar Tamer</h1>
 
-<h3 align="center">I'm a passionate Junior DevOps Engineer</h3>
+<h3 align="center">I'm a passionate Junior DevOps Engineer</h3>https://github.com/omartamer630/Omartamer630/blob/main/README.md
 
 
 🌱 I’m currently learning **DevOps** | **Cloud computing** 
 
-💬 Ask me about **Linux** - **AWS** 
+💬 Ask me about **Linux** - **AWS** - **Automation**
 
 💼 Working on **Exciting Projects that involve automating infrastructure, optimizing deployments, and ensuring seamless operations**.
 
