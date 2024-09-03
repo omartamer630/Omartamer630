@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning **DevOps** | **Linux Admin II**
 
-💬 Ask me about **Linux** - **AWS** - **Automation**
+💬 Ask me about **Linux** - **Docker** - **Automation**
 
 💼 Working on **Exciting Projects that involve automating infrastructure, optimizing deployments, and ensuring seamless operations**.
 
