@@ -3,7 +3,7 @@
 <h3 align="center">I'm a passionate Junior DevOps Engineer</h3>
 
 
-🌱 I’m currently learning **DevOps** | **Linux Admin II**
+🌱 I’m currently learning **DevOps** | **CI/CD** | **Jenkins**
 
 💬 Ask me about **Linux** - **Docker** - **Automation**
 
