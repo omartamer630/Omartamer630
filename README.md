@@ -3,9 +3,9 @@
 <h3 align="center">I'm a passionate Junior DevOps Engineer</h3>
 
 
-🌱 I’m currently learning **DevOps** | **CI/CD** | **Github Actions** | **Jenkins**
+🌱 I’m currently learning **DevOps** | **Cloud Computing**| **AWS** | **Terraform**
 
-💬 Ask me about **Linux** - **Docker** - **Automation**
+💬 Ask me about **Linux** - **Docker** - **Automation** - **Cloud Computing** - **Orchestration**
 
 💼 Working on **Exciting Projects that involve automating infrastructure, optimizing deployments, and ensuring seamless operations**.
 
