@@ -19,7 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=aws,bash,py,java,linux,redhat,ubuntu,git,github,githubactions,nginx,mysql,jenkins,docker,kubernetes,terraform&perline=11" />
+     <img src="https://skillicons.dev/icons?i=aws,bash,py,java,linux,redhat,ubuntu,git,github,githubactions,nginx,mysql,jenkins,circleci,docker,kubernetes,terraform&perline=11" />
   </a>
 </p>
 
