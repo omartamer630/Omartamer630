@@ -7,7 +7,7 @@
 
 💬 Ask me about **Linux** - **Docker** - **Automation** - **Cloud Computing** - **Orchestration**
 
-💼 Working on **exciting projects that integrate infrastructure automation into CI/CD pipelines, optimize cloud deployments, and ensure seamless operations in AWS using Terraform**.
+💼 Working on **projects that integrate Terraform-based infrastructure automation into CI/CD pipelines, streamline AWS deployments, and ensure reliable cloud operations**.
 
 📫 How to reach me **omartamerdev@gmail.com**
 
