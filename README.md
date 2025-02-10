@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Omar Tamer</h1>
 
-<h3 align="center">A passionate Junior DevOps Engineer</h3>
+<h3 align="center">A passionate Junior Cloud/DevOps Engineer</h3>
 
 
-🌱 I’m currently learning **DevOps** | **Terraform** | **Python**
+🌱 I’m currently learning **Linux** | **Terraform** | **Cloud**
 
 💬 Ask me about **Linux** - **Docker** - **Automation** - **Cloud Computing** - **Orchestration**
 
