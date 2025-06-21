@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Junior Cloud/DevOps Engineer</h3>
 
 
-🌱 I’m currently learning **Linux** | **Terraform** | **Cloud**
+🌱 I’m currently learning **Linux** | **Cloud** | **CICD**
 
 💬 Ask me about **Linux** - **Docker** - **Automation** - **Cloud Computing** - **Orchestration**
 
