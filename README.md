@@ -1,7 +1,7 @@
 <div align="center">
 
 # Omar Tamer
-### ☁️ Cloud & DevOps Engineer | AWS Certified Solutions Architect
+### ☁️ Cloud & DevOps Engineer | AWS · GCP · Azure 
 
 *Building reliable, scalable infrastructure — one pipeline at a time.*
 
@@ -14,7 +14,7 @@
 
 ---
 
-## About Me
+##  About Me
 
 DevOps Engineer based in **Alexandria, Egypt**, focused on cloud infrastructure, automation, and CI/CD. I specialize in designing and deploying production-grade AWS architectures with Terraform, containerizing workloads with Docker and Kubernetes, and building fast, reliable pipelines with GitHub Actions and Jenkins.
 
@@ -26,46 +26,19 @@ DevOps Engineer based in **Alexandria, Egypt**, focused on cloud infrastructure,
 
 ---
 
-## 🏅 Certifications
+##  Certifications
 
 <div align="center">
 
-| Certification | Issued |
+| Certification | Issuer |
 |---|---|
-|  AWS Certified Solutions Architect – Associate | Sep 2025 |
-|  AWS Certified Cloud Practitioner | Mar 2024 |
+|  AWS Certified Solutions Architect – Associate | Amazon Web Services |
+|  AWS Certified Cloud Practitioner | Amazon Web Services |
+|  Associate Cloud Engineer | Google Cloud |
+|  Azure Fundamentals (AZ-900) | Microsoft |
+|  Azure Security, Compliance & Identity (SC-900) | Microsoft |
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-### 🐍 [Deploy Django Application CI/CD](https://github.com/omartamer630/deploy-django-application-cicd)
-> **AWS · ECS Fargate · Terraform · GitHub Actions · RDS PostgreSQL · Docker**
-
-Dockerized Django app deployed to **AWS ECS Fargate** with a fully automated GitHub Actions CI/CD pipeline. Infrastructure built entirely as code with Terraform — including VPC, subnets, ALB, ECR, RDS PostgreSQL with replication, NAT gateways, and IAM roles.
-
----
-
-### 🌐 [Highly Available Multi-VPC Architecture](https://github.com/omartamer630/Highly_available_Design_deployment)
-> **AWS · Terraform · Multi-VPC · RDS · Auto Scaling**
-
-Secure, multi-AZ infrastructure across multiple VPCs with auto-scaling groups, centralized routing, VPC peering, Bastion host, and RDS PostgreSQL standby replication — all provisioned with Terraform IaC.
-
----
-
-### ⚡ [Serverless App](https://github.com/omartamer630/serverless-app)
-> **AWS Lambda · DynamoDB · API Gateway · S3 · CloudFront · Route 53 · ACM**
-
-Event-driven serverless application built on AWS for improved scalability and security. Frontend hosted on S3 with CloudFront CDN, secured with ACM SSL certificates and Route 53 DNS management.
-
----
-
-### 🔧 [Tooling Website CI/CD](https://github.com/omartamer630/Tooling-Website-CICD)
-> **Jenkins · AWS · NFS · MySQL · Apache · Load Balancer**
-
-Cloud-based website solution with a multi-server setup featuring NFS shared storage, MySQL backend, Apache web servers, and a load balancer — with automated deployments via Jenkins pipelines.
 
 ---
 
@@ -101,15 +74,6 @@ Cloud-based website solution with a multi-server setup featuring NFS shared stor
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omartamer630&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omartamer630&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=omartamer630&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="160" alt="Streak Stats" />
-</div>
 
 <div align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
