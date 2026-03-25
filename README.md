@@ -21,6 +21,8 @@ DevOps Engineer based in **Alexandria, Egypt**, focused on cloud infrastructure,
 -  Currently working on **cell-based EKS architecture** at **Digital Egypt Pioneers (DEPI)**
 -  Reduced deployment runtime by **50%** via Docker layer caching & GitHub Actions optimization
 -  **AWS Certified Solutions Architect – Associate** & **AWS Certified Cloud Practitioner**
+-  **GCP Certified Associate Cloud Engineer**
+-  **Azure Certified AZ-900 & Azure Certified SC-900**
 -  I document my DevOps journey at [devops-journey.gitbook.io](https://devops-journey.gitbook.io/devops-journey-docs/)
 -  Ask me about **AWS · Terraform · Kubernetes · CI/CD · Docker**
 
