@@ -23,7 +23,7 @@ DevOps Engineer based in **Alexandria, Egypt**, focused on cloud infrastructure,
 -  **AWS Certified Solutions Architect – Associate** & **AWS Certified Cloud Practitioner**
 -  **GCP Certified Associate Cloud Engineer**
 -  **Azure Certified AZ-900 & Azure Certified SC-900**
--  I document my DevOps journey at [devops-journey.gitbook.io](https://devops-journey.gitbook.io/devops-journey-docs/)
+-  I document my DevOps journey at [Omar's Blog](https://omar-blogs.hashnode.dev/)
 -  Ask me about **AWS · Terraform · Kubernetes · CI/CD · Docker**
 
 ---
