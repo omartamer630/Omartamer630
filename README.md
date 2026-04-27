@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-tamer03/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omartamerdev@gmail.com)
-[![DevOps Blog](https://img.shields.io/badge/DevOps%20Blog-00ADEF?style=for-the-badge&logo=gitbook&logoColor=white)](https://devops-journey.gitbook.io/devops-journey-docs/)
+[![DevOps Blog](https://img.shields.io/badge/DevOps%20Blog-00ADEF?style=for-the-badge&logo=gitbook&logoColor=white)](https://omar-blogs.hashnode.dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omartamer630)
 
 </div>
