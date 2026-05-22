@@ -43,10 +43,10 @@
 > I live in the space between *"it works on my machine"* and *"it's live in production"* — that space is pipelines,
 > containers, and Terraform modules.
 
-- 🏗️ Designing **cell-based EKS architectures** for fault isolation at scale
-- ⚡ Cut deployment runtime by **50%** through intelligent caching strategies
-- 🌍 Multi-cloud certified across **AWS · GCP · Azure**
-- ✍️ Writing about DevOps at [omar-blogs.hashnode.dev](https://omar-blogs.hashnode.dev/)
+- Designing **Cloud architectures** for Highly available and fault isolation
+- Cut deployment runtime by **50%** through intelligent caching strategies
+- Multi-cloud certified across **AWS · GCP · Azure**
+- Writing about DevOps at [omar-blogs.hashnode.dev](https://omar-blogs.hashnode.dev/)
 
 ---
 
