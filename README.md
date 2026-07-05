@@ -18,7 +18,7 @@
 ║       ██║   ██║  ██║██║ ╚═╝ ██║███████╗██║  ██║                              ║
 ║       ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝                              ║
 ║                                                                              ║
-║           Cloud & DevOps Engineer  //  Alexandria, Egypt                     ║
+║           Cloud & DevOps Engineer  //  Cairo, Egypt                     ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -177,6 +177,6 @@ Nginx authenticated reverse proxy
 
 `omar@cloud:~$` &nbsp; **Open to remote & on-site opportunities**
 
-<sub>Alexandria, Egypt · omartamerdev@gmail.com</sub>
+<sub>Cairo, Egypt · omartamerdev@gmail.com</sub>
 
 </div>
