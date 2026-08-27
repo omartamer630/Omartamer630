@@ -1,161 +1,130 @@
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3"/>
+<div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║     ██████╗ ███╗   ███╗ █████╗ ██████╗                                       ║
-║    ██╔═══██╗████╗ ████║██╔══██╗██╔══██╗                                      ║
-║    ██║   ██║██╔████╔██║███████║██████╔╝                                      ║
-║    ██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗                                      ║
-║    ╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║                                      ║
-║     ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝                                      ║
-║                                                                              ║
-║    ████████╗ █████╗ ███╗   ███╗███████╗██████╗                               ║
-║    ╚══██╔══╝██╔══██╗████╗ ████║██╔════╝██╔══██╗                              ║
-║       ██║   ███████║██╔████╔██║█████╗  ██████╔╝                              ║
-║       ██║   ██╔══██║██║╚██╔╝██║██╔══╝  ██╔══██╗                              ║
-║       ██║   ██║  ██║██║ ╚═╝ ██║███████╗██║  ██║                              ║
-║       ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝                              ║
-║                                                                              ║
-║           Cloud & DevOps Engineer  //  Cairo, Egypt                          ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+# Hi, I'm Omar Tamer 👋
+### Cloud & DevOps Engineer · Cairo, Egypt 🇪🇬
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3"/>
+Specializing in Kubernetes, CI/CD automation, and Infrastructure as Code —
+building reliable systems across AWS, GCP, hybrid, and on-prem environments.
 
-<br/>
-
-<div align="right">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-tamer03/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:omartamerdev@gmail.com)
-[![Blog](https://img.shields.io/badge/-Blog-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://omar-blogs.hashnode.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-omar--tamer03-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-tamer03)
+[![Email](https://img.shields.io/badge/Email-omartamerdev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omartamerdev@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-omar--blogs-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://omar-blogs.hashnode.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://omartamerportfolio.lovable.app)
 
 </div>
 
----
+<br/>
 
-### `$ whoami`
+## About Me
 
-> DevOps Engineer building **production-grade infrastructure** across AWS, GCP, and on-premises environments.
-> I live in the space between *"it works on my machine"* and *"it's live in production"* — that space is pipelines,
-> containers, and Terraform modules.
+-  DevOps Engineer at **Prime Academy**, running production infra for 8+ services
+-  Deep hands-on experience with **Kubernetes, Docker Swarm, Terraform, and CI/CD**
+-  Recently shipped a **production-grade AI healthcare platform on AWS EKS**
+-  Cut CI compute usage ~89% and NAT data-transfer cost ~40% on that same platform
+-  BSc Computer Science, Egyptian E-Learning University (2022–2026)
+-  Writing about DevOps at **[omar-blogs.hashnode.dev](https://omar-blogs.hashnode.dev/)**
 
-- Designing **Cloud architectures** for Highly available and fault isolation
-- Cut deployment runtime by **50%** through intelligent caching strategies
-- Multi-cloud certified across **AWS · GCP · Azure**
-- Writing about DevOps at [omar-blogs.hashnode.dev](https://omar-blogs.hashnode.dev/)
+<br/>
 
----
+## Tech Stack
 
-### `$ cat ./experience.log`
+<div align="center">
 
-```
-[2025-08 → 2026-01]  Freelance DevOps Engineer
-                     ├── VPS infra with Docker + Dokploy for production startup
-                     ├── GitHub Actions CI/CD: test → build → deploy
-                     └── Isolated containers: Frontend / Backend / Nginx / DB
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-[2025-06 → 2025-12]  DevOps Intern @ Digital Egypt Pioneers (DEPI)
-                     ├── Cell-based EKS architecture (HA + fault isolation)
-                     ├── 50% faster deploys via Docker layer caching
-                     ├── GitHub Actions + Jenkins unified pipeline
-                     └── Terraform: VPCs · EKS · DocumentDB · ECR · multi-AZ
+</div>
 
-[2025-10 → 2025-11]  Freelance DevOps Engineer
-                     ├── On-premises Kubernetes cluster (from scratch)
-                     ├── Python pipeline collecting NetApp storage metrics
-                     └── Nginx authenticated reverse proxy across container network
-```
+<br/>
 
----
-
-### `$ ls ./projects/`
+## Experience
 
 <table>
 <tr>
+<td width="180"><b>Jun 2026 – Present</b></td>
 <td>
 
-**`/django-cicd-ecs`**
-Containerized Django → AWS ECS Fargate
-via Terraform + GitHub Actions pipeline.
-Multi-AZ ALB · RDS replication · NAT gateways
-
-`AWS` `Terraform` `Docker` `GitHub Actions`
-
-</td>
-<td>
-
-**`/multi-vpc-architecture`**
-Secure multi-VPC AWS design with full IaC.
-VPC peering · bastion host · auto-scaling tiers
-RDS standby replication · 100% Terraform
-
-`AWS` `Terraform` `Networking`
+**DevOps Engineer · Prime Academy** *(Freelance, Remote)*
+Migrated 8 production services to a new server in 15 minutes with a fully
+declarative IaC pipeline, eliminating environment drift. Built a GitHub
+Actions CI/CD pipeline with path-based change detection, a dynamic build
+matrix, and Docker Buildx caching, auto-deploying via the Dokploy API.
+Containerized services on non-root Alpine images with Docker Swarm
+3-replica rolling updates (~55% smaller images, ~90% lower deployment
+risk). Configured Traefik + Nginx for SPA fallback, asset caching, SSE
+streaming, and Cloudflare R2 proxying — achieving near-100% zero-downtime
+deploys with instant rollback.
 
 </td>
 </tr>
 <tr>
+<td><b>Oct 2025 – Jan 2026</b></td>
 <td>
 
-**`/serverless-app`**
-Zero-ops serverless stack on AWS.
-Lambda · API Gateway · DynamoDB
-S3 + CloudFront · Route 53 · SSL via ACM
-
-`Lambda` `DynamoDB` `CloudFront`
+**DevOps Engineer · EDP 50Hetz** *(Freelance, Remote)*
+Built a Python data-collection pipeline running in on-prem Kubernetes
+Pods, securing metric retrieval to NetApp storage via an Nginx reverse
+proxy. Engineered service-to-service communication across container
+networking and on-prem cluster management.
 
 </td>
+</tr>
+<tr>
+<td><b>Aug 2025 – Oct 2025</b></td>
 <td>
 
-**`/onprem-k8s-netapp`**
-On-premises K8s + NetApp storage integration.
-Python metric collector in Pods
-Nginx authenticated reverse proxy
-
-`Kubernetes` `Python` `Nginx`
+**DevOps Engineer** *(Freelance, Remote)*
+Implemented containerized architecture with Docker + Dokploy, isolating
+Frontend, Backend, Nginx, and Database into separate services. Chose
+Dokploy over Kubernetes for a small-scale workload to cut operational
+overhead, and set up webhook-triggered deployments plus GitHub Actions
+CI/CD with integration testing before production releases.
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-### `$ cat ./stack.json`
+##  Featured Projects
 
-```json
-{
-  "cloud": ["AWS", "GCP", "Azure"],
-  "iac": ["Terraform"],
-  "containers": ["Docker", "Kubernetes", "EKS"],
-  "cicd": ["GitHub Actions", "Jenkins", "CircleCI", "CodePipeline"],
-  "languages": ["Python", "Bash", "Java", "C/C++", "SQL"],
-  "os": ["Ubuntu", "Red Hat / RHEL", "Linux"],
-  "networking": ["VPC", "VPN", "NAT", "Nginx", "Load Balancers"]
-}
-```
+| Project | Highlights | Stack |
+|---|---|---|
+| **Production-Grade AI Healthcare Platform on AWS EKS** | 6+ microservices via Helm; CloudFront + S3 offloading cut ALB load; AI inference moved to Bedrock (3–5 min → 1–3 sec latency); Prometheus + Loki + Grafana observability; ~89% less CI compute, ~40% lower NAT cost | `AWS` `EKS` `Terraform` `GitHub Actions` |
+| **Automated Django CI/CD & ECS Fargate Deployment** | Multi-AZ ALB, VPC networking, NAT gateways, IAM controls; GitHub Actions pipeline for build/test/deploy; RDS PostgreSQL with replication | `AWS` `Terraform` `Docker` |
+| **Highly Available Multi-VPC AWS Infrastructure** | VPC peering + bastion host access; Auto Scaling Groups for app and proxy tiers with load-balanced routing | `AWS` `Terraform` `Networking` |
+| **Scalable Serverless Web Application** | Lambda + DynamoDB + API Gateway; Route 53 + ACM for DNS/SSL; S3 + CloudFront frontend hosting | `Lambda` `DynamoDB` `CloudFront` |
+| **Highly Available Multi-Server Platform with Jenkins CI/CD** | NFS shared storage, MySQL backend, Apache web servers, load balancer across EC2; Jenkins-driven deployments | `Jenkins` `AWS` `SQL` |
 
----
+<br/>
 
-### `$ cat ./certifications.txt`
+##  Certifications
 
-```
-✔  AWS Certified Solutions Architect – Associate   [Sep 2025]
-✔  AWS Certified Cloud Practitioner                [Mar 2024]
-✔  Google Associate Cloud Engineer                 [Feb 2026]
-✔  Microsoft Azure Fundamentals (AZ-900)           [Jun 2025]
-✔  Microsoft Security Fundamentals (SC-900)        [Sep 2025]
-```
+-  Google Associate Cloud Engineer *(Feb 2026)*
+-  AWS Solutions Architect – Associate *(Sep 2025)*
+-  Microsoft Security Fundamentals *(Sep 2025)*
+-  Microsoft Azure Fundamentals *(Jun 2025)*
+-  AWS Certified Cloud Practitioner *(Mar 2024)*
+
+<br/>
+
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3"/>
-
-`omar@cloud:~$` &nbsp; **Open to remote & on-site opportunities**
-
-<sub>Cairo, Egypt · omartamerdev@gmail.com</sub>
+**Open to remote & on-site opportunities** · Cairo, Egypt
+📧 omartamerdev@gmail.com
 
 </div>
