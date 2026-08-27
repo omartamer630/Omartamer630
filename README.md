@@ -148,27 +148,6 @@ Nginx authenticated reverse proxy
 ✔  Microsoft Azure Fundamentals (AZ-900)           [Jun 2025]
 ✔  Microsoft Security Fundamentals (SC-900)        [Sep 2025]
 ```
-
----
-
-### `$ git log --graph`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omartamer630&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="100%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=omartamer630&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true" height="160"/>
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omartamer630&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="160"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
 ---
 
 <div align="center">
