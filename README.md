@@ -3,8 +3,7 @@
 # Hi, I'm Omar Tamer 👋
 ### Cloud & DevOps Engineer · Cairo, Egypt 🇪🇬
 
-Specializing in Kubernetes, CI/CD automation, and Infrastructure as Code —
-building reliable systems across AWS, GCP, hybrid, and on-prem environments.
+DevOps Engineer with 1 year of hands-on experience in containerized deployments, CI/CD automation, Docker, Kubernetes, and Nginx across cloud, hybrid, and on-premises environments.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-omar--tamer03-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-tamer03)
 [![Email](https://img.shields.io/badge/Email-omartamerdev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omartamerdev@gmail.com)
@@ -57,15 +56,7 @@ building reliable systems across AWS, GCP, hybrid, and on-prem environments.
 <td>
 
 **DevOps Engineer · Prime Academy** *(Freelance, Remote)*
-Migrated 8 production services to a new server in 15 minutes with a fully
-declarative IaC pipeline, eliminating environment drift. Built a GitHub
-Actions CI/CD pipeline with path-based change detection, a dynamic build
-matrix, and Docker Buildx caching, auto-deploying via the Dokploy API.
-Containerized services on non-root Alpine images with Docker Swarm
-3-replica rolling updates (~55% smaller images, ~90% lower deployment
-risk). Configured Traefik + Nginx for SPA fallback, asset caching, SSE
-streaming, and Cloudflare R2 proxying — achieving near-100% zero-downtime
-deploys with instant rollback.
+Migrated 8 production services to a new server in ~15 minutes using declarative Docker Swarm configuration, cutting manual deployment steps and environment drift. Containerized all 8 services on non-root Alpine images with 3-replica rolling updates, shrinking image size by ~55% via optimized multi-stage builds. Built multi-environment GitHub Actions CI/CD pipelines for Beta and Production with service-level change detection, dynamic build matrices, BuildKit caching, SHA-tagged image publishing, and environment-specific Docker Swarm deployments over SSH. Hardened production by moving secrets to Docker secrets, enforcing non-root execution, and restricting hidden-file access through Nginx. Configured Nginx for SPA fallback, static asset caching, SSE streaming, Cloudflare R2 proxying, and maintenance mode. Centralized container log access with Dozzle behind Basic Auth and set up per-service log rotation.
 
 </td>
 </tr>
